@@ -1,0 +1,10 @@
+{
+  "input_type": "image/jpeg", 
+  "inputs": [
+    {
+      "data_shape": [1, 1, 64, 64], 
+      "data_name": "data"
+    }
+  ],
+  "output_type": "application/json"
+}
